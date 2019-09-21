@@ -4,6 +4,7 @@
     <img src="assets/iceland-4260053_1920.jpg" alt="" align="center">
     <figcaption>Image by <a href="https://pixabay.com/users/jbauer-fotographie-7755156">jbauer-fotographie</a></figcaption>
 </figure>
+---
 
 In an attempt to be open about building some workshops, and having a central location for some code shenanigans, this repo is a simple place to submit and talk about ideas for things to do.
 
