@@ -60,6 +60,12 @@ Following are the themes that we would like to focus the workshops under.
 
 For more info on contributing, please see the [Contributing doc](docs/CONTRIBUTING.md)
 
+## Code of Conduct
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](docs/code-of-conduct.md)
+
+The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
+
 ## License
 
 Licensed under the Apache License, Version 2.0 (the "License");
