@@ -1,5 +1,6 @@
 # Ideating
 
+<!-- markdownlint-disable MD033 -->
 <figure>
     <img src="assets/iceland-4260053_1920.jpg" alt="" align="center">
     <figcaption>Image by <a href="https://pixabay.com/users/jbauer-fotographie-7755156">jbauer-fotographie</a></figcaption>
@@ -54,3 +55,23 @@ Following are the themes that we would like to focus the workshops under.
     * Brigade
 * Getting started with Terraform remote modules
 * Container Anthropology: Dealing with Multi-stage Docker builds
+
+## Contributing
+
+For more info on contributing, please see the [Contributing doc](docs/CONTRIBUTING.md)
+
+## License
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Full license can be found [here](docs/LICENSE)
