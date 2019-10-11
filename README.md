@@ -1,4 +1,4 @@
-# Ideating
+# Ideas
 
 <!-- markdownlint-disable MD033 -->
 <figure>
